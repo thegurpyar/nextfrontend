@@ -15,6 +15,12 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a web application that demonstrates the use of page routing. The application has the following pages:
+
+Register: Accessible at http://localhost:3000/register
+All Users: Accessible at http://localhost:3000/users
+Update User: Accessible at http://localhost:3000/update
+Delete User: Accessible at http://localhost:3000/delete
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
